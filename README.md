@@ -5,5 +5,5 @@ It is an user interactive web game in which user can hit a button and some rando
 Sample simulation:
 
 
-                          ![bj1](https://user-images.githubusercontent.com/87611453/163027437-50c31983-e4bf-476f-9be3-727a584724cc.png)
+![bj1](https://user-images.githubusercontent.com/87611453/163027437-50c31983-e4bf-476f-9be3-727a584724cc.png)
 
